@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\FinalProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -72,11 +72,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,14 +96,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\lenovo\\Desktop\\FinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\lenovo\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Downloads\\FinalProject-20220829T162606Z-001\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\lenovo\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Desktop\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }
