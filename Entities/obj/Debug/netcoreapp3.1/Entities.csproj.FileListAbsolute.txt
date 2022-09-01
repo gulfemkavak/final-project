@@ -1,0 +1,9 @@
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\Downloads\FinalProject-20220829T162606Z-001\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
